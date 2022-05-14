@@ -1,7 +1,7 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lee850220.lee850220)
 
 🔭 I’m currently working on MTK  
-🌱 This is my private NAS with several services on it. ![KCloud](https://kdrive.ga)
+🌱 This is my private NAS with several services on it. ![](https://kdrive.ga)
 
 [![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee850220)](https://github.com/lee850220/github-readme-stats)
 <!--
