@@ -4,7 +4,7 @@ Hello, This is Kelvin Lee's Github.
 🔭 I’m currently working on MTK  
 🌱 This is my private NAS with several services on it. [**KCloud**](https://kdrive.ga)
 
-[![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee850220)](https://github.com/lee850220)
+
 <!--
 **lee850220/lee850220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
