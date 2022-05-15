@@ -6,7 +6,7 @@ Hello, This is Kelvin Lee's Github.
 
 <br>
 
-[![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee850220&theme=tokyonight)](https://github.com/lee850220)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee850220&layout=compact&theme=tokyonight)](https://github.com/lee850220)
+[![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee850220&theme=tokyonight)](https://github.com/lee850220)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee850220&layout=compact&theme=tokyonight)](https://github.com/lee850220)
 
 
 <!--
