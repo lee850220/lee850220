@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lee850220.lee850220)
+
 
 Hello, This is Kelvin Lee's Github.  
 🔭 I’m currently working on MTK  
